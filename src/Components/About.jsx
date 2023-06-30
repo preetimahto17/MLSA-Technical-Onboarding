@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a data scientist with a strong background in computer applications. Currently pursuing my Master of Computer Application at Pondicherry University, I have completed my Bachelor of Computer Application from Guru Gobind Singh Indraprastha University. With a passion for data-driven insights, I am constantly upgrading my skills and expertise to develop innovative solutions to complex business problems. My experience includes working on several projects that involve machine learning, data visualization, data analysis, and data science methodology. In my most recent project, I developed a machine learning model using simple linear regression to predict carbon dioxide (Co2) emissions based on vehicle engine size. I also worked on a voice-controlled robotic car project using an Arduino microcontroller and an HC-05 Bluetooth module. In addition to my academic and project experience, I have completed various certifications in data science, including Machine Learning with Python, Data Visualization with Python, Data Analysis with Python, Databases and SQL for Data Science with Python, Python for Data Science, AI & Development, Python Project for Data Science, Tools for Data Science, and Data Science Methodology, from IBM Data Science Professional Certificate on Coursera. As a data scientist, I have expertise in tools such as Jupyter Notebook, VScode, and Apache Spark. My technical skills include machine learning, regression, classification, clustering, data mining, data cleaning and preprocessing, and data visualization. I am proficient in languages such as Java, C++, Python, and SQL. I am always looking to expand my knowledge and skills, collaborate with like-minded professionals, and contribute to the data science community. Please feel free to connect with me on LinkedIn or email me at preetimahto6@gmail.com if you want to discuss any opportunities.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Numpy",
+  "Pandas",
+  "Scikit-Learn",
+  "Data Wrangling",
+  "Data Cleaning",
+  "Data Visualisation",
+  "Data Manipulation",
+  "Data Modeling ",
+  "Model Evaluation"
 ];
 
 /**
@@ -45,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Data Science skills and experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (

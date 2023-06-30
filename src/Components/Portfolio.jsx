@@ -30,21 +30,19 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-  {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    urltitle: "Co2 Emissions Prediction using Simple Linear Regression",
-    description:
-      "This Regression project aimed to develop a machine learning model that utilizes a simple linear regression algorithm to predict the amount of carbon dioxide (Co2) emissions based on the engine size of a vehicle.",
-    url: "https://github.com/preetimahto17/Co2-Emissions-Prediction-using-Simple-Linear-Regression",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/preetimahto17/resume",
-  },
+  
+    {
+      title: "Co2 Emissions Prediction using Simple Linear Regression",
+      description:
+        "This Regression project aimed to develop a machine learning model that utilizes a simple linear regression algorithm to predict the amount of carbon dioxide (Co2) emissions based on the engine size of a vehicle.",
+      url: "https://github.com/preetimahto17/Co2-Emissions-Prediction-using-Simple-Linear-Regression",
+    },
+    {
+      title: "My Resume Site",
+      description:
+        "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      url: "https://github.com/preetimahto17/resume",
+    },
 ];
 
 const Portfolio = () => {
